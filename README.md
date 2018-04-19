@@ -8,7 +8,7 @@ We'll introduce components, explain why they're important, and look at a few exa
 1. Understand React components
 2. Create a React component by extending the `React.Component` class
 3. Re-use that component in a parent component
-
+ 
 ## Components?
 
 Let's examine a high level overview of what a React component is before we implement one. The official [React documentation on components][react-component] says it best:
